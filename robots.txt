@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://miophaimuu.kinkygeeks.de/sitemap.xml
